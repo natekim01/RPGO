@@ -28,4 +28,4 @@ Once you've logged enough steps, you'll battle a monster.
 Attack: decrease monster's health by your attack stat
 Defend: temporarily increase your defense stat
 Heal: heal yourself a small amount
-Forfeit: give up on this battle
+Forfeit: give up on this battle  
